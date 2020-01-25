@@ -1,11 +1,17 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 a {
-  color: #00B7FF;
+    color: #00B7FF;
 }
-li{
-  display: inline;
+
+li {
+    display: inline;
+}
+
+.delete-form {
+    width: 20%;
+    margin: 0px 0px 0px 0px;
 }
